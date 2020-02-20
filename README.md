@@ -9,8 +9,6 @@ footer: Copyright © ComunikCRM - 2020
 
 ---
 
-###### Des solutions intelligentes pour une meilleur relation client
-
 ## [ComunikSales](/comunikSales)
 
 <span style="margin:20px;display:block;text-align:center">
