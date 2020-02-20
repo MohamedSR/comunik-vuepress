@@ -9,7 +9,7 @@ Une solution innovante pour gérer tous les métiers de votre service télémark
 
 ## Mettez ComunikContact aux défis :
 
-### Défi 1
+### Défi #1
 
 Faire travailler des équipes ici, là-bas, chez eux, dans un autre pays, tous en même temps, et sur la même plateforme ! ..Et surtout je ne veux rien installer sur leurs ordinateurs !
 
