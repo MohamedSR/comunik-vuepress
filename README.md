@@ -2,9 +2,9 @@
 navbar: false
 sidebar: false
 home: true
-heroImage: "/public/comunik-logo.png"
+heroImage: "/comunik-logo.png"
 actionText: Nos Produits
-actionLink: "/comunikCRM"
+actionLink: "/comunikCRM/"
 footer: Copyright © ComunikCRM - 2020
 
 ---
