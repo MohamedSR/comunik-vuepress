@@ -4,6 +4,10 @@
   "logo": "/comunik-logo.png",
   "navigation": [
     {
+      "text": "comunikContact",
+      "link": "/comunikContact/"
+    },
+    {
       "text": "Accueil",
       "link": "/"
     },
