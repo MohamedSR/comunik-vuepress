@@ -1,0 +1,11 @@
+{
+  "name": "demovuepress",
+  "version": "1.0.0",
+  "scripts": {
+    "site:build": "vuepress build",
+    "site:develop": "vuepress dev"
+  },
+  "dependencies": {
+    "vuepress": "^1.3.1"
+  }
+}
