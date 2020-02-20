@@ -32,3 +32,13 @@ Avec le ScriptBuilder tout ce dont vous aurez besoin est à portée de main : le
 Avec les fonctionnalités métiers nativement installées dans Comunik.Contact, donnez l’outil à vos télé-vendeurs afin d’accéder à votre liste de services et produits, et profitez de la puissance et la proximité du téléphone pour vendre plus, vendre rapidement, et vendre au moindre coût
 
 ![](/screen3@2x.png)
+
+### Défi #4
+
+**Je veux les enregistrements des ventes réalisées le mois dernier compressés en format MP3 sans avoir les numéros de téléphones des clients ! et je veux les télécharger sur mon Cloud privé.**
+
+Les enregistrements, **une pure merveille dans Comunik.Contact**, accessibles partout, dans la liste des contacts traités, sur l’agenda de vos commerciaux, sans aucune limite, enfin la limite est celle de vos baies de stockages
+
+Je veux, pendant mon déjeuner, prendre mon smartphone, appeler un numéro de téléphone, taper un petit code (pour la sécurité), j'active mon haut-parleur, et j’écoute en temps réel les conversations en cours de la campagne de prise de commande ... pendant que je déguste mon steak saignant..et si j’ai envie je peux souffler à mon collaborateur ... _c’est tout à fait possible_
+
+![](/screen4@2x.png)
