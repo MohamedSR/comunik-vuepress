@@ -1,38 +1,38 @@
-{ 
-  "title":"Comunik",
-  "test":"test",
-  "description":"We love your client",
-  "logo":"/comunik-logo.png",
-  "navigation":[ 
-     { 
-        "text":"Accueil",
-        "link":"/",
-        "position":"right",
-        "external":false
-     },
-     { 
-        "text":"ComunikCRM",
-        "link":"/comunikCRM/",
-        "position":"right",
-        "external":false
-     },
-     { 
-        "text":"comunikVoip",
-        "link":"/comunikVoip/",
-        "position":"right",
-        "external":false
-     },
-     { 
-        "text":"comunikDashboard",
-        "link":"/comunikDashboard/",
-        "position":"right",
-        "external":false
-     },
-     { 
-        "text":"comunikSales",
-        "link":"/comunikSales/",
-        "position":"right",
-        "external":false
-     }
+{
+  "title": "Comunik",
+  "test": "test",
+  "description": "We love your client",
+  "logo": "/public/comunik-logo.png",
+  "navigation": [
+    {
+      "text": "Accueil",
+      "link": "/",
+      "position": "right",
+      "external": false
+    },
+    {
+      "text": "ComunikCRM",
+      "link": "/comunikCRM/",
+      "position": "right",
+      "external": false
+    },
+    {
+      "text": "comunikVoip",
+      "link": "/comunikVoip/",
+      "position": "right",
+      "external": false
+    },
+    {
+      "text": "comunikDashboard",
+      "link": "/comunikDashboard/",
+      "position": "right",
+      "external": false
+    },
+    {
+      "text": "comunikSales",
+      "link": "/comunikSales/",
+      "position": "right",
+      "external": false
+    }
   ]
 }
