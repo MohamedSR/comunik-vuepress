@@ -1,38 +1,27 @@
 {
   "title": "Comunik",
-  "test": "test",
   "description": "We love your client",
   "logo": "/public/comunik-logo.png",
   "navigation": [
     {
       "text": "Accueil",
-      "link": "/",
-      "position": "right",
-      "external": false
+      "link": "/"
     },
     {
       "text": "ComunikCRM",
-      "link": "/comunikCRM/",
-      "position": "right",
-      "external": false
+      "link": "/comunikCRM/"
     },
     {
       "text": "comunikVoip",
-      "link": "/comunikVoip/",
-      "position": "right",
-      "external": false
+      "link": "/comunikVoip/"
     },
     {
       "text": "comunikDashboard",
-      "link": "/comunikDashboard/",
-      "position": "right",
-      "external": false
+      "link": "/comunikDashboard/"
     },
     {
       "text": "comunikSales",
-      "link": "/comunikSales/",
-      "position": "right",
-      "external": false
+      "link": "/comunikSales/"
     }
   ]
 }
