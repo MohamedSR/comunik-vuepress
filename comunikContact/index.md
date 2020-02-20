@@ -17,6 +17,8 @@ L’accès à Comunik.Contact nécessite ZERO installation, à partir de mainten
 
 ![](/screen1@2x.png)
 
-## cPhasellus lacus est,
+### Défi #3
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lacus est, porttitor nec lacus sit amet, euismod aliquet elit. Sed eu pellentesque mauris, vel bibendum erat. Fusce ac vulputate nisl, sit amet porta felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus tincidunt et tortor quis interdum. Nulla scelerisque quis odio eu auctor. In posuere arcu ac lacus efficitur, sed convallis leo imperdiet.
+**Mon donneur d’ordre me demande un sondage d’opinion avec des dizaines de questions, des centaines de réponses possibles, et des croisements dans tous les sens pour hier ! ... Et mon DSI est toujours en vacances.**
+
+Avec le ScriptBuilder tout ce dont vous aurez besoin est à portée de main : les champs textes, les cases à cocher, les matrices, les liens, les boutons, les WebServices en temps réel, etc ...
