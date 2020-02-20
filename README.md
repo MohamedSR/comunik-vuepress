@@ -8,7 +8,8 @@ actionLink: "/comunikCRM/"
 footer: Copyright © ComunikCRM - 2020
 
 ---
-## Des solutions intelligentes pour une meilleur relation client
+
+###### Des solutions intelligentes pour une meilleur relation client
 
 ## [ComunikSales](/comunikSales)
 
