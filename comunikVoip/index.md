@@ -36,3 +36,13 @@ Comunik.VoIP CERTIFIED BY TT vous donne accès à tout le catalogue produit de T
 * Compréhension minutieuse des besoins pour une offre sur mesure
 
 ![](http://www.comunikcrm.com/assets/img/screen/comunik_voip/screen2@2x.png)
+
+## Communiquez quand vous voulez, où vous voulez : Votre bureau vous manquera mais pas vos clients
+
+Comunik.VoIP porte votre téléphone fixe de bureau sur votre smartphone, compatible avec la technologie GSM, Wifi et 4G.
+
+Vous êtes chez le client, en déplacement (n’appelez jamais en voiture), dans un autre pays, ou tout simplement chez vous, votre téléphone fixe vous suit là où vous êtes, et vos clients n’oseront plus jamais vous dire ~~« j’ai du mal à vous joindre »~~ ..
+
+Appelez depuis votre mobile sur le mobile du client et affichez votre numéro fixe...Eh oui c’est la magie de Comunik.VoIP
+
+![](http://www.comunikcrm.com/assets/img/screen/comunik_voip/screen3@2x.png)
