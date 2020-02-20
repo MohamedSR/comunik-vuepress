@@ -1,6 +1,3 @@
-+++
-
-+++
 # comunikContact
 
 ## La bonne rencontre au bon moment
